@@ -14,7 +14,7 @@ run
 set up your bot on [Discord developer portal](https://discord.com/developers/)
 
 create environment variable  
-`API_KEY = YOURTOKEN`
+`TOKEN = YOURTOKEN`
 
 run  
 `python main.py`
