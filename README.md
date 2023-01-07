@@ -1,0 +1,2 @@
+# KBBIBOT
+ KBBI Discord Bot
