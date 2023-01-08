@@ -1,5 +1,10 @@
 # KBBIBOT
- KBBI Discord Bot
+ KBBI(Kamus Besar Bahasa Indonesia) Discord Bot
+
+ result:  
+ ![](https://github.com/UN56/KBBIBOT/blob/main/GIF.gif)  
+
+ or [try the bot](https://discord.com/api/oauth2/authorize?client_id=1060564101325131817&permissions=8&scope=bot)
 
 ## Usage
 
